@@ -5,7 +5,6 @@ Its very easy-to-use and light-weight.
 
 #### Demo
 
-[Github Pages - Gsap Animation Example](https://kaanersoy.github.io/gsap-animation-example/)
 
 ## 💻 Techs
 
@@ -20,7 +19,7 @@ Its very easy-to-use and light-weight.
 #### 📰 Clone the project
 
 ```bash
-git clone https://github.com/kaanersoy/gsap-animation-example.git
+git clone https://github.com/FIFA0313/A-basic-horizontal-page-example.git
 ```
 
 #### 🔻 Install Dependencies
@@ -45,4 +44,4 @@ bundle exec jekyll serve
 
 ## 🖊Authors:
 
-- [github@kaanersoy](https://github.com/kaanersoy)
+- [github@kaanersoy](https://github.com/FIFA0313)
